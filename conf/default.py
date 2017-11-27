@@ -33,7 +33,7 @@ from django.conf.global_settings import *  # noqa
 APP_ID = 'app02'
 APP_TOKEN = 'a52309bf-fd3a-4c11-8011-f534a8c25223'
 # 蓝鲸智云开发者中心的域名，形如：http://paas.bking.com
-BK_PAAS_HOST = 'http://paas.blueking.com'
+BK_PAAS_HOST = 'http://paas.shediaodo.com'
 
 # 是否启用celery任务
 IS_USE_CELERY = True
